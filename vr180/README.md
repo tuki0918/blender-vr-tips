@@ -50,7 +50,8 @@ Object Data
 output
 
 ```
-0001-0100_vr180.mp4
+$ blender -b vr180.blend -o // -a
+// 0001-0100_vr180.mp4
 ```
 
 ![image](0001-0100_vr180.png)

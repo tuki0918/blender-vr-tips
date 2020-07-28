@@ -50,7 +50,8 @@ Object Data
 output
 
 ```
-0001-0100_vr360.mp4
+$ blender -b vr360.blend -o // -a
+// 0001-0100_vr360.mp4
 ```
 
 ### for YouTube:
