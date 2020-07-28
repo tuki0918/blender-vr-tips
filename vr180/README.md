@@ -53,12 +53,19 @@ output
 0001-0100_vr180.mp4
 ```
 
-### for YouTube:
+![image](0001-0100_vr180.png)
+
+### for YouTube: VR180 metadata
+
+Install VR180 Creator
 
 ```
-// https://github.com/Vargol/spatial-media
-$ python spatialmedia -i -s left-right -m equirectangular 0001-0100_vr180.mp4 0001-0100_vr180_injected.mp4
+https://arvr.google.com/vr180/apps/
 ```
+
+![image](image_app1.png)
+
+![image](image_app2.png)
 
 output
 
